@@ -1,4 +1,4 @@
-# .github
+# TechnologyUnion
 
 Discord技術力 Tier表<br>
 S+ 
