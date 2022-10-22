@@ -1,6 +1,6 @@
 # .github
 
-Discord技術力 Tier表
+Discord技術力 Tier表\n
 S+ 
 ```
 すずねーう 代表作: AuroraBot 備考:荒らし界隈だけでなく、他界隈からも使われる評価の高いbotを作成した。
