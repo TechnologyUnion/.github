@@ -17,7 +17,7 @@ S-
 β教祖 代表作: IDK :( 備考:Braveで犯罪しとけ
 Raibonn 代表作: わからない 備考:バックエンドエンジニア
 Noname(みどくり) 代表作:Anondiscord
-Za(ぜあら) 代表作:invox A+寄りのS-
+Za(ぜあら) 代表作:invox(InviteScrapeBot)、Raider(×3)、Ezzgg製のverifyBot A+寄りのS-
 ```
 A+
 ```
@@ -32,6 +32,6 @@ B
 ```
 暇人村長 代表作: 荒らし共栄圏公式bot 備考:skider
 ライムント 代表作: ？
-meiousauron 代表作: CTKP-Raid 備考:skidder
+meiousauron 代表作: CTKP-Raider(Joiner) 備考:skidder
 共栄圏Nukeboter 備考: 古代兵器使用者。石器時代。
 ```
