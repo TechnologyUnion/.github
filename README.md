@@ -6,7 +6,8 @@ S+
 すずねーう 代表作: AuroraBot 備考:荒らし界隈だけでなく、他界隈からも使われる評価の高いbotを作成した。
 Core(Python) 代表作: いろいろ  備考:高専生。Pydroidの神
 Kodai3rd 代表作: にんちゃん  備考:S寄りのS+
-```S
+```
+S
 ```
 Qwerty!! 代表作:Qwerty BotLoader, LagTrain in Discord 備考: 神様
 start(TeamOneParent) 代表作:Request式ミラティブ再生爆、自販機、認証bot、Raider 備考:片親
