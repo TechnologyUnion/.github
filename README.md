@@ -11,8 +11,8 @@ S
 ```
 Qwerty!! 代表作:Qwerty BotLoader, LagTrain in Discord 備考: 神様
 start(TeamOneParent) 代表作:Request式ミラティブ再生爆、自販機、認証bot、Raider 備考:片親
-``
-`S-
+```
+S-
 ```
 β教祖 代表作: IDK :( 備考:Braveで犯罪しとけ
 Raibonn 代表作: わからない 備考:バックエンドエンジニア
