@@ -11,20 +11,24 @@ S
 ```
 Qwerty!! 代表作:Qwerty BotLoader, LagTrain in Discord 備考: 神様
 start(TeamOneParent) 代表作:Request式ミラティブ再生爆、自販機、認証bot、Raider 備考:片親
-```S-
+``
+`S-
 ```
 β教祖 代表作: IDK :( 備考:Braveで犯罪しとけ
 Raibonn 代表作: わからない 備考:バックエンドエンジニア
 Noname(みどくり) 代表作:Anondiscord
 Za(ぜあら) 代表作:invox A+寄りのS-
-```A+
+```
+A+
 ```
 なえこーど(Brown_cat999) 代表作: わからない
 ろりねこ(なぎさ) 代表作: rorineko raider 備考: あんま知らない
-```A
+```
+A
 ```
 TypicArtist 代表作: Raider 
-```B
+```
+B
 ```
 暇人村長 代表作: 荒らし共栄圏公式bot 備考:skider
 ライムント 代表作: ？
